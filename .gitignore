@@ -1,8 +1,8 @@
-.*
-!.gitignore
-!.gitmodules
-*~
+.DS_Store
 
-components/
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
 
-_site/
+Gemfile.lock
